@@ -1,3 +1,5 @@
+#Hi everyone this is my day 1 project and the code that i wrote for the project, Day 1 Officially Completed!
+
 # importing colorama to add some color to the terminal text
 from colorama import Fore
 
